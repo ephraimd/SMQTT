@@ -19,7 +19,7 @@ Its pretty easy to use...if i had documented it.
   
 ## Errors?
 - **Please make sure the conf folder is in the same folder as your executable**
-- Ensure **logfile_path** directive points to a valid path of the errorlogs.txt file in the conf folder
+- Ensure **logfile_path** directive points to a valid path of the errorlogs.txt file in the log folder
 - **Just go through the whole configuration file (smtt.conf)**
 - After these, i cannot help further
 
