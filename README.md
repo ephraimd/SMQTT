@@ -1,6 +1,6 @@
 # SMQTT
 A simple MQTT server for quick and very low bandwidth message transfer
-
+>Project no longer under maintenance. You can create issues if you need it to be resurrected
 Its pretty easy to use...if i had documented it.
 
   But building it is a breeze; you can simply build it with the D command
